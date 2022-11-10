@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "东河 Taproom",
+        "球桌": "Fireball",
+        "活动时间": "周五/周六",
+        "地址": "浙江省杭州市上城区中山中路238-1号(近地铁1号线定安路A出口)",
+        "介绍": "主打精酿啤酒，很好喝，旁边另有正宗西北烤串店可以吃。",
+        "点评": "https://www.dianping.com/shop/l72cN2tmqNYZRKIm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.170677,
+          30.246593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "夜鸟·Steak (武林路店)",
+        "球桌": "Fireball",
+        "活动时间": "周四",
+        "地址": "浙江省杭州市拱墅区武林路76号2楼",
+        "介绍": "",
+        "点评": "https://www.dianping.com/shop/H3K5YN7nYwMliVFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.167685,
+          30.267629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "味徳 Wade's Bar & Grill (文三店)",
+        "球桌": "Fireball",
+        "活动时间": "周日",
+        "地址": "浙江省杭州市文三路工专路黄龙万科中心H座1楼105室",
+        "介绍": "吃的东西比较丰盛，看比赛直播环境很好。",
+        "点评": "https://www.dianping.com/shop/l5dW2H6OeRxZpriX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.132399,
+          30.281425
+        ]
+      }
+    }
+  ]
+}

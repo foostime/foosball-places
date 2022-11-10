@@ -2,7 +2,12 @@
 
 Play foosball at:
 
-- [Beijing](/beijing.geojson)
-- [Dalian](/dalian.geojson)
-- [Hangzhou](/hangzhou.geojson)
-- [Shanghai](/shanghai.geojson)
+> 按拼音排序
+
+- [北京 (1)](/beijing.geojson)
+- [杭州 (3)](/hangzhou.geojson)
+- [上海](/shanghai.geojson)
+
+## 感谢
+
+部分数据来源于 [kangkai/foosapp](https://github.com/kangkai/foosapp/blob/foosapp/data/bars.json)。
