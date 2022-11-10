@@ -4,9 +4,9 @@ Play foosball at:
 
 > 按拼音排序
 
-- [北京 (1)](/beijing.geojson)
+- [北京 (3)](/beijing.geojson)
 - [杭州 (3)](/hangzhou.geojson)
-- [上海](/shanghai.geojson)
+- [上海 (2)](/shanghai.geojson)
 
 ## 感谢
 
