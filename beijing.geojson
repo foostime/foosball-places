@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Pool Bar",
+        "tables": "Fireball",
+        "address": "鼓楼东大街106号（南锣鼓巷北口，向东15米左右）",
+        "intro": "鼓楼东大街里面有很多值得前往的好去处，The Pool Bar 就是其中一家，酒吧位于南锣鼓巷巷口，装修很有特色，一共两层，一楼就一排吧台和简单几张桌椅，还摆了桌上足球等游戏设备供大家娱乐，二楼是卡座，回字形的格局显得很有趣。酒类丰富，每一款的口味都很丰富。",
+        "dianping": "https://www.dianping.com/shop/k1tcZDtRfXspEFvZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.40335,
+          39.94069
+        ]
+      }
+    }
+  ]
+}
